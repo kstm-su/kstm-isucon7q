@@ -28,5 +28,3 @@
 
 # root
 !/root/
-/root/*
-!/root/.vimrc
