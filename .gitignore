@@ -25,3 +25,8 @@
 !/home/isucon/
 /home/isucon/.viminfo
 /home/isucon/.bash_history
+
+# root
+!/root/
+/root/*
+!/root/.vimrc
