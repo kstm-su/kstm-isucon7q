@@ -1,0 +1,27 @@
+# general
+/*
+!/.gitignore
+
+!/etc/
+/etc/*
+
+# mysql
+!/etc/my.cnf
+
+# nginx
+!/etc/nginx/
+
+# ulinits
+!/etc/security/
+/etc/security/*
+!/etc/security/limits.conf
+
+# sysctl
+!/etc/sysctl.conf
+
+# home
+!/home/
+/home/*
+!/home/isucon/
+/home/isucon/.viminfo
+/home/isucon/.bash_history
